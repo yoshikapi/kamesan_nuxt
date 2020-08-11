@@ -16,21 +16,23 @@
         </p>
       </div>
     </div>
-    <div class="row">
-      <div class="col-12 text-center">
-        <iframe
-          src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fclub.camesan%2F&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
-          width="100%"
-          height="550px"
-          scrolling="no"
-          frameborder="0"
-          allowTransparency="true"
-          allow="encrypted-media">
-        </iframe>
+    <div class="row w-100">
+      <div class="col-12">
+        <div class="text-center">
+          <iframe
+            src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fclub.camesan%2F&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+            width="500px"
+            height="550px"
+            scrolling="no"
+            frameborder="0"
+            allowTransparency="true"
+            allow="encrypted-media">
+          </iframe>
+        </div>
       </div>
     </div>
     <div class="row">
-      <img class="w-100" src="image/top/画像04.png" />
+      <img class="w-100 h-100" src="image/top/画像04.png" />
     </div>
   </div>
 </template>
