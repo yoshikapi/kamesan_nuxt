@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* コンタクト情報表示領域 */
+div.back{
+    background: #808080;		
+}
+img.SNSImg{
+	height: 32px;
+	width: 32px;
+}
+a.contactText {
+    color: #FFFFFF;
+	border-right: solid 1px;
+	font-size: calc(1px + 1.0vw);
+	text-align: center;
+	height: calc(15px + 0.3vw);
+}
+a.contactText:last-of-type {
+	border-right: none;
+}

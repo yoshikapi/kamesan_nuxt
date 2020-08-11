@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+/* かめさんの歩み表示領域 */
+div.ayumiKiziTitleSP{
+	font-size: 15x;
+	font-weight: bold;
+}
+div.ayumiDateTagSP{
+	font-size: 10px;
+	font-weight: bold;
+}
+div.ayumiBassuiSP{
+	font-size: 7px;
+}
+
+/* みんなの写真表示領域 */
+img.picSP{
+	height: 20vw;
+	width: 100%;
+}

@@ -1,0 +1,70 @@
+@charset "UTF-8";
+body {
+  font-family: Helvetica, Arial, "游ゴシック", "hiragino kaku gothic pro", sans-serif;
+}
+
+body h1 {
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+
+body h2 {
+  font-size: calc(10px + 1.3vw);
+  font-weight: bold;
+}
+
+body h3 {
+  font-weight: bold;
+}
+
+body h4 {
+  font-weight: bold;
+}
+
+body div .no-gutters {
+  margin: 0;
+  padding: 0;
+}
+
+body div .no-gutters　 > .col,
+body div .no-gutters　 > [class*="col-"] {
+  margin: 0;
+  padding: 0;
+}
+
+body div .no-ptpb {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+body div .no {
+  padding: 0;
+  margin: 0;
+}
+
+body div .more {
+  background: #808080;
+  height: calc(20px + 1.0vw);
+}
+
+body a {
+  cursor: pointer;
+  font-size: calc(7px + 0.7vw);
+}
+
+body p {
+  font-size: calc(7px + 0.7vw);
+}
+
+body p .no {
+  padding: 0;
+  margin: 0;
+}
+
+body .link:link {
+  color: #000000;
+}
+
+body .link:visited {
+  color: #000000;
+}
